@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Final Project</title>
+
+</head>
+
+<body>
+<div style = "background:grey">
+<p>
+	from math import pi
+	<hr class="line1">
+	def get_radius_from_user():
+<hr class="line1">
+   	radius = float(input ("What is the radius? "))
+<hr class="line1">
+    	return radius
+	<hr class="line1">
+	def get_height_from_user():
+<hr class="line1">
+    	 height = float(input("What is the height? "))
+<hr class="line1">
+   	 return height
+	<hr class="line1">
+	def calculate_cylinder_volume(radius,height):
+<hr class="line1">
+    	 volume=pi*radius**2*height
+<hr class="line1">
+    	 return volume
+	<hr class="line1">
+	def generate_report(radius,height,volume):
+<hr class="line1">
+    	 print("A right circular cone of radius=",radius, "and height=", height, "has a volume of", volume)
+    	<hr class="line1">
+	def main():
+<hr class="line1">
+    	 radius = get_radius_from_user()
+<hr class="line1">
+    	 height = get_height_from_user()
+<hr class="line1">
+    	 volume = calculate_cylinder_volume(radius,height)
+<hr class="line1">
+    	 generate_report(radius,height,volume)
+<hr class="line1">
+	<hr class="line1">
+<hr class="line1">
+	main()
+</p>
+
+</div>
+</body>
+
+</html>
