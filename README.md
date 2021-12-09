@@ -1,2 +1,27 @@
 # GabeS1.github.io
-[Final Project](GabeS1.github.io/Finalproject.html)
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Final Project</title>
+
+</head>
+
+<body>
+<div style = "background:grey">
+<h1>Final project for IT-1000</h1>
+<ul>
+  <li>Hi, I’m Gabe a sophmore in college as of writing this</li>
+  <li>I’m interested in all things Computers, Gaming, and Coding</li>
+  <li>I’m currently learning IT at the University of Missouri Columbia</li>
+  <li>Feel free to check out some of my other projects</li>
+      <ul>
+	<li><a href="https://github.com/GabeS1/GabeS1.github.io/blob/main/CylinderVolumeCalc.html">Here is a code I wrote to find the Volume of a Cyliner</a></li>
+	<li><a href="https://github.com/GabeS1/GabeS1/blob/main/GabeSisk3bAsset%201.png">Here is a picture I made in my design class</a></li>
+	<li><a href="https://www.bing.com/images/search?view=detailV2&ccid=N0MyLXys&id=B28C5A5E47731F70EB89C7E06DFCD3C4031D0BB8&thid=OIP.N0MyLXysFySFgxA7sPhgPQHaHa&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3743322d7cac17248583103bb0f8603d%3frik%3duAsdA8TT%252fG3gxw%26riu%3dhttp%253a%252f%252forig10.deviantart.net%252f1453%252ff%252f2015%252f303%252f0%252f8%252fblack_desert_by_ru_devlin-d9evffh.png%26ehk%3d%252bbpHT%252fbE%252fvsoJpQHrtb2%252fvLBJJt0B%252fwmf%252frdBjG6Vu0%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=Black+Desert+Online+Icon&simid=608007858485018276&FORM=IRPRST&ck=D93EC91B832FDE76A86DA35723E033FC&selectedIndex=8">Here is a picture of the current game I am playing.</a></li>
+      </ul>
+</ul>
+</div>
+</body>
+
+</html>
